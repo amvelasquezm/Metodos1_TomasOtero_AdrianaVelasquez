@@ -6,3 +6,5 @@
   am.velasquezm1@uniandes.edu.co 
 
 * Tomas Otero
+  
+  t.otero@uniandes.edu.co
